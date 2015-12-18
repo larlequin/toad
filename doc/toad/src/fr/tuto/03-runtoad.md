@@ -41,13 +41,12 @@ L’ensemble des dossiers pour chaque sujet devrait ressembler à peu près au t
 |02-parcellation        | Parseg et Brodmann, gauche/droite (Freesurfer)        |
 |03-atlas               | Création et application des atlas                     |
 |04-denoising           | Débruitage des images                                 |
-|05-correction          | Correction mouvement, inhomgénéité du champs, etc.    |
+|05-correction          | Correction mouvement, inhomogénéité du champs, etc.    |
 |05-preprocessing       |                                                       |
 |06-upsampling          | Mise à l’échelle des images                           |
 |07-registration        | Registration T1/DWI                                   |
 |08-atlasregistration   |                                                       |
 |09-masking             | Création des masques                                  |
-|08-snr                 | Calcul du rapport signal sur bruit                    |
 |10-tensorfsl           | Reconstruction des tenseurs (FSL)                     |
 |11-tensormrtrix        | Reconstruction des tenseurs (MRTRIX)                  |
 |12-tensordipy          | Reconstruction des tenseurs (Dipy)                    |
